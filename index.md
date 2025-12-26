@@ -8,3 +8,6 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
 
 ## Featured Projects
 Faith-based Housing Website: https://jyotsnakumarg.github.io/Faith_Based_Affordable_Housing_Project/
+
+[Resume](resume.md)
+<a href="resume.md"><kbd>Resume</kbd></a>
