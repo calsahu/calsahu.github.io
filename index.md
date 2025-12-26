@@ -1,8 +1,9 @@
-* Welcome to my website!
-I am an urban planner and spatial data scientist.
+# Welcome to my website!
+I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
 
-** Education
-BA Urban Studies, BA Data Science from UC Berkeley 2024 Master of City and Regional Planning from Rutgers University - New Brunswick expected 2027
+## Education
+Master of City and Regional Planning from Rutgers University - New Brunswick expected 2027 <br>
+BA Urban Studies, BA Data Science from UC Berkeley 2024 
 
-** Featured Projects
+## Featured Projects
 Faith-based Housing Website: https://jyotsnakumarg.github.io/Faith_Based_Affordable_Housing_Project/
