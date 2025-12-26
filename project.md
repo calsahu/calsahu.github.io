@@ -45,7 +45,7 @@ Each state is colored based on whether they have passed laws, considered laws, d
 
 <img src="MAP4_Rentburden_Principles of Housing.png" alt="Rent Burden in San Francisco">
 
-<img src="MAP5_RentburdenAffordableHousing_Principles of Housing.png" alt="Rent Burden and Affordable Housing in San Francisco">
+<img src="MAP5_RentBurdenAffordableHousing_Principles of Housing.png" alt="Rent Burden and Affordable Housing in San Francisco">
 
 ### Bhubhaneswar EPIC Project
 
