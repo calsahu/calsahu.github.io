@@ -1,5 +1,6 @@
 # Welcome to my website!
 I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
+<img src="Sharanya Khurana (Intern).JPG" alt="Sharanya Sahu Photo">
 
 ## Education
 Master of City and Regional Planning from Rutgers University - New Brunswick expected 2027 <br>
