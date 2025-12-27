@@ -47,6 +47,12 @@ Each state is colored based on whether they have passed laws, considered laws, d
 
 <img src="MAP5_RentBurdenAffordableHousing_Principles of Housing.png" alt="Rent Burden and Affordable Housing in San Francisco">
 
+### Land Use Change in Doral, Florida
+
+<img src="2025, 1985.png" alt="Doral, Florida">
+
+<img src="2025, 1985 (2).png" alt="Doral, Florida Landuse">
+
 ### Bhubhaneswar EPIC Project
 
 <img src="EPIC_BBSR_KP_2.png" alt="EPIC BBSR Projects">
