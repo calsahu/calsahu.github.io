@@ -32,7 +32,7 @@ The basemap can also be switched between a simple Carto Positron basemap and Ope
 <em>*4 developments’ opening dates have not been identified. They populate in the final year of the timeline slider, 2025. **As per December, 2025.</em>
 
 #### YIGBY States
-<img src="YIGBYMap (2).png" width = "200" alt="YIGBY Legislation and Development Counts">
+<img src="image/YIGBYMap (2).png" width = "200" alt="YIGBY Legislation and Development Counts">
 
 The status of YIGBY legislation* compared with statewise development counts, as of 2025, can be compared here. The list of states was prepared by the research team for the Faith-based Affordable Housing project. This data was initially in excel format, which was spatially joined with shoreline-clipped state shapefiles from NHGIS. 
 Each state is colored based on whether they have passed laws, considered laws, declined to pass laws, or have not considered YIGBY legislation. Overlaid are circles representing the total number of developments passed in each state. 
