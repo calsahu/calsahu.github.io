@@ -51,6 +51,19 @@ Each state is colored based on whether they have passed laws, considered laws, d
 
 <img src="EPIC_BBSR_KP_2.png" alt="EPIC BBSR Projects">
 
+### Groundwater Situation of Delhi
+Made for NIUA, under the supervision of Dr. Victor Shinde and Banibrata Choudhury.
+<iframe src="GWSTRESSDELHI.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWRecharge_Parks.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWQualityDELHI.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWDepthtoLevelDecadalDELHI.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWDelhi_Recharge_Waterbodies.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWDelhiInfiltrationParks.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWDelhiInfiltration.pdf" width="100%" height="600px"></iframe>
+<iframe src="GWDelhiDischarge.pdf" width="100%" height="600px"></iframe>
+<iframe src="FIXEDBuiltUp.pdf" width="100%" height="600px"></iframe>
+<iframe src="DelhiGWDischargeRate.pdf" width="100%" height="600px"></iframe>
+
 ## Presentations
 
 ### Earth Day and Shallow Aquifers Instagram Post
