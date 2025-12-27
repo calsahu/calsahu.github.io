@@ -17,6 +17,9 @@ Faith-based Housing Website: https://jyotsnakumarg.github.io/Faith_Based_Afforda
     <div class="slide">
       <img src="batik.png" alt="Slide 1">
     </div>
+    <div>
+      <video src="mapvideo.mp4" autoplay muted loop playsinline></video>
+    </div>
     <div class="slide">
       <img src="singapore2.svg" alt="Slide 2">
     </div>
@@ -88,11 +91,5 @@ document.querySelector(".next").onclick = () => showSlide(index + 1);
 document.querySelector(".prev").onclick = () => showSlide(index - 1);
 </script>
 
-let autoplay = true;
-const intervalMs = 250; // 0.25 seconds
-
-if (autoplay) {
-  setInterval(() => showSlide(index + 1), intervalMs);
-}
 <br>
 Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)!
