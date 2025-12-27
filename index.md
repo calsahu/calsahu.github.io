@@ -9,8 +9,6 @@ Master of City and Regional Planning from Rutgers University - New Brunswick exp
 BA Urban Studies, BA Data Science from UC Berkeley 2024 
 
 ## Featured Projects
-Faith-based Housing Website: https://jyotsnakumarg.github.io/Faith_Based_Affordable_Housing_Project/
-<iframe src="InteractiveWebmapFB.html" height="855" width="95%"></iframe>
 
 <div class="carousel">
   <div class="slides">
