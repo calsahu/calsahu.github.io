@@ -37,6 +37,10 @@ Each state is colored based on whether they have passed laws, considered laws, d
 
 <em>*This map includes statewise legislation. YIGBY laws have also been passed at the local level, which is not included in the visualization.</em>
 
+### Indonesia's Batik Industry
+<img src="batik.png" alt="Map of Indonesia's Batik Production Centers">
+<iframe src="Indonesia's Batik Industry.pptx" width="100%" height="600px"></iframe>
+
 ### NYC Squirrel Census
 
 <iframe src="squirrel_map_NYC (1).html" height="855" width="95%"></iframe>
