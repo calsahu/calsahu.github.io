@@ -3,7 +3,7 @@
 <br>
 <nav class="header-nav">
   <a href="project.html">Projects</a>
-  <a href="paper.hmtl">Papers</a>
+  <a href="paper.html">Papers</a>
   <a href="contact.html">Contact</a>
   <a href="awards.html">Awards</a>
 </nav>
