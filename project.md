@@ -72,6 +72,8 @@ Made for NIUA, under the supervision of Dr. Victor Shinde and Banibrata Choudhur
 
 ## Presentations
 
+### [Singapore Housing Policy](https://docs.google.com/presentation/d/e/2PACX-1vRyHdynAAIsFmzL-_fXcwX4Xq7MC3sf-y63_sA6qIt2kG9CEoo2BLSU0A3chcpHI0d3OmeAAH8jex-j/pub?start=false&loop=false&delayms=3000)
+
 ### Earth Day and Shallow Aquifers Instagram Post
 <img src="1.png" alt="1">
 <img src="2.png" alt="2">
