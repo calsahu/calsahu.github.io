@@ -7,7 +7,7 @@
 2024: Urban Studies Senior Thesis: South Asian Labor during the Urbanization and Industrialization of the Bay Area [read here!](https://escholarship.org/uc/item/14j0g5j7) 
 
 ## Urban Planning Course Papers
-[Managing Urban Transformation: Population Growth and Economic Development in Doral, Florida](index.md)
+[Managing Urban Transformation: Population Growth and Economic Development in Doral, Florida](UESPFinal.md)
 <br>
 There are two facts which provide the provocation for this paper. First: “Doral is in some ways a prototypical suburb that formed around a country club far away from the central city, yet it is also a major economic hub.” (Nijman & Clery, 2015, p. 85) Second: “While Doral still has its share of industrial flavor, the focus over the past decade has been on Downtown Doral, a mix of apartment buildings, restaurants and stores. The transformation has kept workers around at night for dinner and drinks, and has drawn visitors from other parts of the county.” (Rivera, 2025) This pushed me to explore the question: <i>What is influencing the transformation of land uses towards commercial development in Doral, Florida, between 2000 and 2025?</i>
 
