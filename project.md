@@ -1,6 +1,13 @@
 # Projects
-
-## Mapping
+all will be carousels
+## Maps
+## Data Analysis
+## Presentations
+include HT memo
+NITI Aayog work
+Class presentations
+## Graphics
+NIUA work
 
 ### Faith-based Housing (Fall 2025- Present)
 This project is based on the research of Dr. Nadia Mian at the Voorhees Center for Civic Engagement on "YIGBY" developments. YIGBY refers to "Yes in God's Backyard" in which faith-based
