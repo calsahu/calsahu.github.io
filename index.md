@@ -13,17 +13,17 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
 <div class="carousel">
   <div class="slides">
     <div class="slide">
-      <a href="project.md">
+      <a href="project.html">
         <img src="image/batik.png" alt="Slide 1">
       </a>
     </div>
     <div class="slide">
-      <a href="project.md">
+      <a href="project.html">
         <img src="image/singapore1.svg" alt="SingaporeHousingPPP">
       </a>
     </div>
     <div class = "slide">
-      <a href="project.md">
+      <a href="project.html">
         <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
       </a>
     </div>
@@ -62,7 +62,7 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
 .slide img,
 .slide video {
   width: 100%;
-  height: 500px;   /* pick any fixed height you like */
+  height: 400px;   /* pick any fixed height you like */
   object-fit: cover;
   display: block;
 }
