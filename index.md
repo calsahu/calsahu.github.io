@@ -1,5 +1,5 @@
 # Welcome to my website!
-[Resume](resume.md)  [Projects](project.md)  [Papers](paper.md)  [Contact](contact.md)  [Awards](awards.md)
+[Resume](https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub)  [Projects](project.md)  [Papers](paper.md)  [Contact](contact.md)  [Awards](awards.md)
 <br>
 I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
 <img src="Sharanya Khurana (Intern).JPG" alt="Sharanya Sahu Photo">
