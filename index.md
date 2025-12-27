@@ -23,7 +23,7 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
       </a>
     </div>
     <div class = "slide">
-      <a href="project.html">
+      <a href="fbhousing.html">
         <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
       </a>
     </div>
