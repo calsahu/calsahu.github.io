@@ -13,7 +13,7 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
 <div class="carousel">
   <div class="slides">
     <div class="slide">
-      <a href="project.html">
+      <a href="batikppt.html">
         <img src="image/batik.png" alt="Slide 1">
       </a>
     </div>
