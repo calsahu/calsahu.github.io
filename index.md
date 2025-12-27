@@ -46,9 +46,11 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
   min-width: 100%;
 }
 
-.slide img {
+.slide img,
+.slide video {
   width: 100%;
-  height: auto;
+  height: 500px;   /* pick any fixed height you like */
+  object-fit: cover;
   display: block;
 }
 
