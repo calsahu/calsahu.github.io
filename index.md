@@ -2,7 +2,7 @@
 [Resume](https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub)  [Projects](project.md)  [Papers](paper.md)  [Contact](contact.md)  [Awards](awards.md)
 <br>
 I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
-<img src="Sharanya Khurana (Intern).JPG" alt="Sharanya Sahu Photo">
+<img src="image/Sharanya Khurana (Intern).JPG" alt="Sharanya Sahu Photo">
 
 ## Education
 Master of City and Regional Planning from Rutgers University - New Brunswick expected 2027 <br>
@@ -13,13 +13,13 @@ BA Urban Studies, BA Data Science from UC Berkeley 2024
 <div class="carousel">
   <div class="slides">
     <div class="slide">
-      <img src="batik.png" alt="Slide 1">
-    </div>
-    <div>
-      <video src="mapvideo.mp4" autoplay muted loop playsinline></video>
+      <img src="image/batik.png" alt="Slide 1">
     </div>
     <div class="slide">
-      <img src="singapore2.svg" alt="Slide 2">
+      <img src="image/singapore1.svg" alt="SingaporeHousingPPP">
+    </div>
+    <div class = "slide">
+      <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
     </div>
   </div>
 
