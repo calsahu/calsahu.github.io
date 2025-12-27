@@ -2,10 +2,10 @@
 [Resume](https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub)  [Projects](project.md)  [Papers](paper.md)  [Contact](contact.md)  [Awards](awards.md)
 <br>
 <nav class="header-nav">
-  <a href="project.md">Projects</a>
-  <a href="paper.md">Papers</a>
-  <a href="contact.md">Contact</a>
-  <a href="awards.md">Awards</a>
+  <a href="project.html">Projects</a>
+  <a href="paper.hmtl">Papers</a>
+  <a href="contact.html">Contact</a>
+  <a href="awards.html">Awards</a>
 </nav>
 
 <style>
@@ -27,10 +27,10 @@
 }
 </style>
 <div class="top-nav">
-  <a href="project.md">Projects</a>
-  <a href="paper.md">Papers</a>
-  <a href="contact.md">Contact</a>
-  <a href="awards.md">Awards</a>
+  <a href="project.html">Projects</a>
+  <a href="paper.html">Papers</a>
+  <a href="contact.html">Contact</a>
+  <a href="awards.html">Awards</a>
 </div>
 
 <style>
@@ -53,10 +53,10 @@
 }
 </style>
 <p style="font-size: 1.25rem; font-weight: 600;">
-  <a href="project.md">Projects</a> ·
-  <a href="paper.md">Papers</a> ·
-  <a href="contact.md">Contact</a> ·
-  <a href="awards.md">Awards</a>
+  <a href="project.html">Projects</a> ·
+  <a href="paper.html">Papers</a> ·
+  <a href="contact.html">Contact</a> ·
+  <a href="awards.html">Awards</a>
 </p>
 
 I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
