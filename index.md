@@ -32,8 +32,8 @@ I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
 <img src="image/Sharanya.JPG" alt="Sharanya Sahu Photo">
 
 ## Education
-Master of City and Regional Planning from Rutgers University - New Brunswick expected 2027 <br>
-BA Urban Studies, BA Data Science from UC Berkeley 2024 
+- Rutgers University New Brunswick (expected 2027) <b>Master of City and Regional Planning </b> 
+- UC Berkeley (2024) <b>BA Urban Studies, BA Data Science</b>
 
 ## Featured Projects
 
