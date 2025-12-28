@@ -24,6 +24,11 @@
         <img src="image/EPIC_BBSR_KP_2.png" alt="BBSR Map">
       </a>
     </div>
+    <div class="slide">
+      <a href="GWDelhi.html" target="_blank">
+        <img src="image/EPIC_BBSR_KP_2.png" alt="Delhi groundwater map">
+      </a>
+    </div>
   </div>
 
   <button class="prev">‹</button>
@@ -59,7 +64,7 @@
 .slide img,
 .slide video {
   width: 100%;
-  height: 500px;   /* pick any fixed height you like */
+  height: 600px;   /* pick any fixed height you like */
   object-fit: cover;
   display: block;
 }
