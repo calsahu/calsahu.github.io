@@ -26,7 +26,8 @@
 .top-nav a:hover {
   background: #e0e0e0;
 }
-
+</style>
+  
 I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
 <img src="image/Sharanya.JPG" alt="Sharanya Sahu Photo">
 
