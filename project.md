@@ -54,7 +54,7 @@
 .slide img,
 .slide video {
   width: 100%;
-  height: 400px;   /* pick any fixed height you like */
+  height: 500px;   /* pick any fixed height you like */
   object-fit: cover;
   display: block;
 }
