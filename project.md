@@ -15,18 +15,23 @@
       </a>
     </div>
     <div class="slide">
-      <a href="SFrentburden.html" target="_blank">
+      <a href="SFrentburden.html">
         <img src="image/MAP4_Rentburden_Principles of Housing.png" alt="RentBurdenSF">
       </a>
     </div>
     <div class="slide">
-      <a href="EPICBBSR.html" target="_blank">
+      <a href="EPICBBSR.html">
         <img src="image/EPIC_BBSR_KP_2.png" alt="BBSR Map">
       </a>
     </div>
     <div class="slide">
-      <a href="GWDelhi.html" target="_blank">
+      <a href="GWDelhi.html">
         <img src="image/EPIC_BBSR_KP_2.png" alt="Delhi groundwater map">
+      </a>
+    </div>
+    <div>
+      <a href="https://docs.google.com/document/d/e/2PACX-1vTZZ76jcULc5QDYACa4x6GH-VeB5BdaXt95-XyAUs29dgqBwKykK6fFhXcDBfyV5A/pub" target="_blank">
+        <img src="image/2025, 1985 (2).png" alt="Doral, Florida Built Up">
       </a>
     </div>
   </div>
@@ -404,12 +409,8 @@ document.querySelector(".prev").onclick = () => showSlide(index - 1);
 
 <img src="2025, 1985.png" alt="Doral, Florida">
 
-<img src="2025, 1985 (2).png" alt="Doral, Florida Landuse">
+<img src="image/2025, 1985 (2).png" alt="Doral, Florida Built Up">
 
 
-## Presentations
 
-### [Singapore Housing Policy](https://docs.google.com/presentation/d/e/2PACX-1vRyHdynAAIsFmzL-_fXcwX4Xq7MC3sf-y63_sA6qIt2kG9CEoo2BLSU0A3chcpHI0d3OmeAAH8jex-j/pub?start=false&loop=false&delayms=3000)
-![Singapore Policy Example](singapore1.svg)
-![Singapore Policy Example](singapore2.svg)
 
