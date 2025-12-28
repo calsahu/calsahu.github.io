@@ -109,6 +109,8 @@ document.querySelector(".prev").onclick = () => showSlide(index - 1);
 
 
 
+
+
 ## Data Analysis
 <div class="carousel">
   <div class="slides">
@@ -207,17 +209,14 @@ document.querySelector(".prev").onclick = () => showSlide(index - 1);
 
 
 
+
+
 ## Presentations
 include HT memo
 NITI Aayog work
 Class presentations
 <div class="carousel">
   <div class="slides">
-    <div class = "slide">
-      <a href="fbhousing.html">
-        <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
-      </a>
-    </div>
     <div class="slide">
       <a href="batikppt.html">
         <img src="image/batik.png" alt="Slide 1">
@@ -313,14 +312,9 @@ document.querySelector(".prev").onclick = () => showSlide(index - 1);
 NIUA work
 <div class="carousel">
   <div class="slides">
-    <div class = "slide">
-      <a href="fbhousing.html">
-        <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
-      </a>
-    </div>
     <div class="slide">
-      <a href="batikppt.html">
-        <img src="image/batik.png" alt="Slide 1">
+      <a href="earthday.html">
+        <img src="image/2.png" alt="Earth Day image">
       </a>
     </div>
     <div class="slide">
@@ -419,8 +413,3 @@ document.querySelector(".prev").onclick = () => showSlide(index - 1);
 ![Singapore Policy Example](singapore1.svg)
 ![Singapore Policy Example](singapore2.svg)
 
-### Earth Day and Shallow Aquifers Instagram Post
-<img src="1.png" alt="1">
-<img src="2.png" alt="2">
-<img src="3.png" alt="3">
-<img src="4.png" alt="4">
