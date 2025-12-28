@@ -19,6 +19,11 @@
         <img src="image/MAP4_Rentburden_Principles of Housing.png" alt="RentBurdenSF">
       </a>
     </div>
+    <div class="slide">
+      <a href="EPICBBSR.html" target="_blank">
+        <img src="image/EPIC_BBSR_KP_2.png" alt="BBSR Map">
+      </a>
+    </div>
   </div>
 
   <button class="prev">‹</button>
