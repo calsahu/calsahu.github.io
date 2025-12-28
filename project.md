@@ -16,7 +16,7 @@
     </div>
     <div class="slide">
       <a href="SFrentburden.html" target="_blank">
-        <img src="image/MAP5_RentBurdenAffordableHousing_Principles of Housing.png" alt="RentBurdenSF">
+        <img src="image/MAP4_Rentburden_Principles of Housing.png" alt="RentBurdenSF">
       </a>
     </div>
   </div>
