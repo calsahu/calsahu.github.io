@@ -400,12 +400,6 @@ document.querySelector(".prev").onclick = () => showSlide(index - 1);
 
 <iframe src="squirrel_map_NYC (1).html" height="855" width="95%"></iframe>
 
-### Housing Affordability in San Francisco
-
-<img src="MAP4_Rentburden_Principles of Housing.png" alt="Rent Burden in San Francisco">
-
-<img src="MAP5_RentBurdenAffordableHousing_Principles of Housing.png" alt="Rent Burden and Affordable Housing in San Francisco">
-
 ### Land Use Change in Doral, Florida
 
 <img src="2025, 1985.png" alt="Doral, Florida">
