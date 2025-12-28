@@ -26,7 +26,7 @@
     </div>
     <div class="slide">
       <a href="GWDelhi.html">
-        <img src="image/EPIC_BBSR_KP_2.png" alt="Delhi groundwater map">
+        <img src="image/delhigw.png" alt="Delhi groundwater map">
       </a>
     </div>
     <div>
