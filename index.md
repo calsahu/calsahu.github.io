@@ -1,32 +1,7 @@
 # Welcome to my website!
-[Resume](https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub)  [Projects](project.md)  [Papers](paper.md)  [Contact](contact.md)  [Awards](awards.md)
-<br>
-<nav class="header-nav">
-  <a href="project.html">Projects</a>
-  <a href="paper.html">Papers</a>
-  <a href="contact.html">Contact</a>
-  <a href="awards.html">Awards</a>
-</nav>
 
-<style>
-.header-nav {
-  background: #111;
-  padding: 10px 12px;
-  border-radius: 10px;
-}
-
-.header-nav a {
-  color: white;
-  margin-right: 14px;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.header-nav a:hover {
-  text-decoration: underline;
-}
-</style>
 <div class="top-nav">
+  <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Projects</a>
   <a href="project.html">Projects</a>
   <a href="paper.html">Papers</a>
   <a href="contact.html">Contact</a>
@@ -51,13 +26,6 @@
 .top-nav a:hover {
   background: #e0e0e0;
 }
-</style>
-<p style="font-size: 1.25rem; font-weight: 600;">
-  <a href="project.html">Projects</a> ·
-  <a href="paper.html">Papers</a> ·
-  <a href="contact.html">Contact</a> ·
-  <a href="awards.html">Awards</a>
-</p>
 
 I am Sharanya Sahu, an urban planner and spatial data scientist. <br>
 <img src="image/Sharanya.JPG" alt="Sharanya Sahu Photo">
