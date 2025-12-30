@@ -1,4 +1,4 @@
-# Groundwater Situation of Delhi
+# Presentation on Batik Industry
 
 <div class="top-nav">
   <a href="index.html">About Me</a>
@@ -29,9 +29,14 @@
 }
 </style>
 
-Made for NIUA, under the supervision of Dr. Victor Shinde and Banibrata Choudhury.
+This is a presentation on Delhi's groundwater situation, put together from official government reports. It highlights areas with depleting groundwater supply and places where groundwater recharge is possible. Made in 2025 during my internship at NIUA, under the supervision of Dr. Victor Shinde and Banibrata Choudhury.
 
-Add relevant parts of ppt as well
+<iframe
+  src="https://view.officeapps.live.com/op/embed.aspx?src=https://calsahu.github.io/GWDelhiSharanya.pptx"
+  width="100%"
+  height="600px"
+  frameborder="0">
+</iframe>
 
 <iframe src="pdf/GWSTRESSDELHI.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/GWRecharge_Parks.pdf" width="100%" height="600px"></iframe>
