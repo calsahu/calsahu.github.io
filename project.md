@@ -1,7 +1,7 @@
 # Projects
 
 <div class="top-nav">
-  <a href="index.html">About Me</a
+  <a href="index.html">About Me</a>
   <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Resume</a>
   <a href="paper.html">Papers</a>
   <a href="contact.html">Contact</a>
