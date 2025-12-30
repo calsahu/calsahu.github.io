@@ -61,7 +61,7 @@ Here are some of the maps I have made. As you scroll, you can click on each map 
     </div>
     <div>
       <a href="https://docs.google.com/document/d/e/2PACX-1vTZZ76jcULc5QDYACa4x6GH-VeB5BdaXt95-XyAUs29dgqBwKykK6fFhXcDBfyV5A/pub" target="_blank">
-        <img src="image/2025, 1985 (2).png" alt="Doral, Florida Built Up">
+        <img src="image/doral.png" alt="Doral, Florida Built Up">
       </a>
     </div>
   </div>
