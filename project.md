@@ -29,6 +29,9 @@
 </style>
 
 ## Maps
+
+Here are some of the maps I have made. As you scroll, you can click on each map to learn more. 
+
 <div class="carousel">
   <div class="slides">
     <div class = "slide">
@@ -142,7 +145,13 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 });
 </script>
 
-
+Map projects:
+- [Faith-based Housing](fbhousing.md)
+- [Squirrel Census Visualization](https://calsahu.github.io/CommandLineGIS/)
+- [Rent-burden in San Francisco](SFrentburden.md)
+- [Bhubhaneswar Map](EPICBBSR.md)
+- [Delhi Groundwater Scenario](GWDelhi.md)
+- [Land Use Change in Doral, Florida](https://docs.google.com/document/d/e/2PACX-1vTZZ76jcULc5QDYACa4x6GH-VeB5BdaXt95-XyAUs29dgqBwKykK6fFhXcDBfyV5A/pub) 
 
 
 
