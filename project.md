@@ -98,18 +98,23 @@ button:hover {
 </style>
 
 <script>
-const slides = document.querySelectorAll(".slide");
-const track = document.querySelector(".slides");
-let index = 0;
+document.querySelectorAll(".carousel").forEach(carousel => {
 
-function showSlide(i) {
-  index = (i + slides.length) % slides.length;
-  track.style.transform = `translateX(-${index * 100}%)`;
-}
+  const track = carousel.querySelector(".slides");
+  const slides = carousel.querySelectorAll(".slide");
+  let index = 0;
 
-document.querySelector(".next").onclick = () => showSlide(index + 1);
-document.querySelector(".prev").onclick = () => showSlide(index - 1);
+  function showSlide(i) {
+    index = (i + slides.length) % slides.length;
+    track.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  carousel.querySelector(".next").onclick = () => showSlide(index + 1);
+  carousel.querySelector(".prev").onclick = () => showSlide(index - 1);
+
+});
 </script>
+
 
 
 
@@ -198,17 +203,21 @@ button:hover {
 </style>
 
 <script>
-const slides = document.querySelectorAll(".slide");
-const track = document.querySelector(".slides");
-let index = 0;
+document.querySelectorAll(".carousel").forEach(carousel => {
 
-function showSlide(i) {
-  index = (i + slides.length) % slides.length;
-  track.style.transform = `translateX(-${index * 100}%)`;
-}
+  const track = carousel.querySelector(".slides");
+  const slides = carousel.querySelectorAll(".slide");
+  let index = 0;
 
-document.querySelector(".next").onclick = () => showSlide(index + 1);
-document.querySelector(".prev").onclick = () => showSlide(index - 1);
+  function showSlide(i) {
+    index = (i + slides.length) % slides.length;
+    track.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  carousel.querySelector(".next").onclick = () => showSlide(index + 1);
+  carousel.querySelector(".prev").onclick = () => showSlide(index - 1);
+
+});
 </script>
 
 
@@ -296,18 +305,23 @@ button:hover {
 </style>
 
 <script>
-const slides = document.querySelectorAll(".slide");
-const track = document.querySelector(".slides");
-let index = 0;
+document.querySelectorAll(".carousel").forEach(carousel => {
 
-function showSlide(i) {
-  index = (i + slides.length) % slides.length;
-  track.style.transform = `translateX(-${index * 100}%)`;
-}
+  const track = carousel.querySelector(".slides");
+  const slides = carousel.querySelectorAll(".slide");
+  let index = 0;
 
-document.querySelector(".next").onclick = () => showSlide(index + 1);
-document.querySelector(".prev").onclick = () => showSlide(index - 1);
+  function showSlide(i) {
+    index = (i + slides.length) % slides.length;
+    track.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  carousel.querySelector(".next").onclick = () => showSlide(index + 1);
+  carousel.querySelector(".prev").onclick = () => showSlide(index - 1);
+
+});
 </script>
+
 
 
 
@@ -391,18 +405,23 @@ button:hover {
 </style>
 
 <script>
-const slides = document.querySelectorAll(".slide");
-const track = document.querySelector(".slides");
-let index = 0;
+document.querySelectorAll(".carousel").forEach(carousel => {
 
-function showSlide(i) {
-  index = (i + slides.length) % slides.length;
-  track.style.transform = `translateX(-${index * 100}%)`;
-}
+  const track = carousel.querySelector(".slides");
+  const slides = carousel.querySelectorAll(".slide");
+  let index = 0;
 
-document.querySelector(".next").onclick = () => showSlide(index + 1);
-document.querySelector(".prev").onclick = () => showSlide(index - 1);
+  function showSlide(i) {
+    index = (i + slides.length) % slides.length;
+    track.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  carousel.querySelector(".next").onclick = () => showSlide(index + 1);
+  carousel.querySelector(".prev").onclick = () => showSlide(index - 1);
+
+});
 </script>
+
 
 
 
