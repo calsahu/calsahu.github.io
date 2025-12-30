@@ -29,7 +29,7 @@
 }
 </style>
 
-These maps visualize rent burden in San Francisco, alongside point locations of affordable housing in the city. This was prepared as a final project for the course Principles of Housing at Rutgers.
+These maps visualize rent burden in San Francisco, alongside point locations of affordable housing in the city. This was prepared as part of a term paper for the course Principles of Housing at Rutgers.
 
 <img src="image/MAP4_Rentburden_Principles of Housing.png" alt="Rent Burden in San Francisco">
 
