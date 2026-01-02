@@ -169,7 +169,7 @@ Map projects:
   <div class="slides">
     <div class = "slide">
       <a href="cchousing.html">
-        <img src="image/ProjA1Data100.png" alt="Wealthy neighborhoods and Sale Price">
+        <img src="image/projA1Data100.png" alt="Wealthy neighborhoods and Sale Price">
       </a>
     </div>
     <div class="slide">
