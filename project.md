@@ -165,9 +165,6 @@ Map projects:
 
 ## Data Analysis
 
-[Assignment researching impact of ridesharing on public transportation](https://docs.google.com/document/d/16mHV6zUrckrcL0oaMdeLqeIdWNRQVaWXkU-9goHb6y0/edit?usp=sharing)
-This assignment explores the impact of ridesharing on public transport using analyses from census data, SF transit agencies, and ridesharing companies. I prepared the analyses on per capita income as well as comparing the costs of public transit and ride.
-
 <div class="carousel">
   <div class="slides">
     <div class = "slide">
@@ -176,13 +173,8 @@ This assignment explores the impact of ridesharing on public transport using ana
       </a>
     </div>
     <div class="slide">
-      <a href="batikppt.html">
-        <img src="image/batik.png" alt="Slide 1">
-      </a>
-    </div>
-    <div class="slide">
-      <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyHdynAAIsFmzL-_fXcwX4Xq7MC3sf-y63_sA6qIt2kG9CEoo2BLSU0A3chcpHI0d3OmeAAH8jex-j/pub?start=false&loop=false&delayms=3000" target="_blank">
-        <img src="image/singapore1.svg" alt="SingaporeHousingPPP">
+      <a href="sftranspo.html">
+        <img src="image/munilyft.png" alt="Slide 1">
       </a>
     </div>
   </div>
@@ -266,6 +258,9 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 });
 </script>
 
+Data analysis projects:
+- [Cook County Housing Analysis](cchousing.md)
+- [Assignment researching impact of ridesharing on public transportation](sftranspo.md)
 
 
 
