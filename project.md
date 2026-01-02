@@ -169,12 +169,12 @@ Map projects:
   <div class="slides">
     <div class = "slide">
       <a href="cchousing.html">
-        <img src="image/ProjA1Data100" alt="Wealthy neighborhoods and Sale Price">
+        <img src="image/ProjA1Data100.png" alt="Wealthy neighborhoods and Sale Price">
       </a>
     </div>
     <div class="slide">
       <a href="sftranspo.html">
-        <img src="image/munilyft.png" alt="Slide 1">
+        <img src="image/munilyft.png" alt="Comparison on Muni and Lyft prices">
       </a>
     </div>
   </div>
