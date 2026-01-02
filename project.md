@@ -171,8 +171,8 @@ This assignment explores the impact of ridesharing on public transport using ana
 <div class="carousel">
   <div class="slides">
     <div class = "slide">
-      <a href="fbhousing.html">
-        <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
+      <a href="cchousing.html">
+        <img src="image/ProjA1Data100" alt="Wealthy neighborhoods and Sale Price">
       </a>
     </div>
     <div class="slide">
