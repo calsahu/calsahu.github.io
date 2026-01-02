@@ -260,7 +260,7 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 
 Data analysis projects:
 - [Cook County Housing Analysis](cchousing.md)
-- [Assignment researching impact of ridesharing on public transportation](sftranspo.md)
+- [Assignment researching impact of ridesharing on public transportation in San Francisco](sftranspo.md)
 
 
 
@@ -273,13 +273,18 @@ Class presentations
 <div class="carousel">
   <div class="slides">
     <div class="slide">
-      <a href="batikppt.html">
-        <img src="image/batik.png" alt="Slide 1">
+      <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyHdynAAIsFmzL-_fXcwX4Xq7MC3sf-y63_sA6qIt2kG9CEoo2BLSU0A3chcpHI0d3OmeAAH8jex-j/pub?start=false&loop=false&delayms=3000" target="_blank">
+        <img src="image/singapore1.svg" alt="SingaporeHousingPPP">
       </a>
     </div>
     <div class="slide">
-      <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyHdynAAIsFmzL-_fXcwX4Xq7MC3sf-y63_sA6qIt2kG9CEoo2BLSU0A3chcpHI0d3OmeAAH8jex-j/pub?start=false&loop=false&delayms=3000" target="_blank">
-        <img src="image/singapore1.svg" alt="SingaporeHousingPPP">
+      <a href=memo_delhitransport.html">
+        <img src="image/delhipinkpass.png" alt="Delhi Pink Pass Scheme">
+      </a>
+    </div>
+    <div class="slide">
+      <a href="batikppt.html">
+        <img src="image/batik.png" alt="Batik Industry">
       </a>
     </div>
   </div>
@@ -363,6 +368,10 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 });
 </script>
 
+Presentations:
+- [Case Study of Singapore Public Housing](https://docs.google.com/presentation/d/e/2PACX-1vRyHdynAAIsFmzL-_fXcwX4Xq7MC3sf-y63_sA6qIt2kG9CEoo2BLSU0A3chcpHI0d3OmeAAH8jex-j/pub?start=false&loop=false&delayms=3000)
+- [Delhi's Pink Pass Bus Subsidy for Women](memo_delhitransport.md)
+- [How Indonesia Revived its Batik Industry](batikppt.md)
 
 
 
