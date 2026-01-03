@@ -2,10 +2,10 @@
 
 <div class="top-nav">
   <a href="index.html">About Me</a>
-  <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Resume</a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub" target=_blank>Resume</a>
   <a href="project.html">Projects</a>
-  <a href="contact.html">Contact</a>
   <a href="awards.html">Awards</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <style>
@@ -42,3 +42,9 @@ There are two facts which provide the provocation for this paper. First: “Dora
 [Subsidizing Transit for Women in Delhi, India](https://docs.google.com/document/d/16PEnRXAAenDjqs6sjyviA0LpYWMqIe6KLDV3o1S7xVI/edit?usp=sharing)
 <br>
 Delhi’s Pink Pass scheme has increased ridership and workforce participation rates among women. Women and gender minorities in Delhi, particularly those from caste-oppressed, migrant, and working-class backgrounds, have long been excluded from public space, transit, and employment. The Pink Pass fully subsidizes their bus rides. This program has been widely successful, reducing red-tape and promoting the visibility of women in public. The Pink Pass case provides a model of reducing historic inequities through transportation planning. I prepared a memo and [presentation](memoppt_HTP.md) explaining this program.
+
+
+
+<br>
+
+Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)! 
