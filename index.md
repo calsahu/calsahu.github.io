@@ -33,7 +33,7 @@ I’m Sharanya Sahu, a city planning graduate student with a background in data 
 
 - [Rutgers Climate and Energy Fellow](https://rcei.rutgers.edu/rutgers-climate-and-energy-fellowships/)
 - [Charlene Conrad Liebau Library Prize for Undergraduate Research](https://www.lib.berkeley.edu/about/news/library-prize-2024)
-- [UC Berkeley Undergraduate Research Apprenticeship Program Summer Fellowship](https://research.berkeley.edu/urap-researchers/sharanya-sahu/)
+- [UC Berkeley Undergraduate Research Apprentice Summer Fellow](https://research.berkeley.edu/urap-researchers/sharanya-sahu/)
 
 ## Education
 - Rutgers University New Brunswick (expected 2027) <b>Master of City and Regional Planning </b> 
