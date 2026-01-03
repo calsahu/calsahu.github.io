@@ -47,6 +47,6 @@ This is a presentation on Delhi's groundwater situation, put together from offic
 <iframe src="pdf/GWDelhiInfiltration.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/GWDelhiDischarge.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/FIXEDBuiltUp.pdf" width="100%" height="600px"></iframe>
+<iframe src="pdf/DelhiGWDischargeRate.pdf" width="100%" height="600px"></iframe>
 <br>
 Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)!
-<iframe src="pdf/DelhiGWDischargeRate.pdf" width="100%" height="600px"></iframe>
