@@ -28,7 +28,7 @@
   background: #e0e0e0;
 }
 </style>
-I present strategies used to revive the Batik (traditional textile) in Indonesia, highlighting 4 takeaways for Indian traditional industries. I created this presentation for my internship at NITI Aayog in Delhi, India, in 2024.
+I present strategies used to revive the Batik (traditional textile) in Indonesia, highlighting 4 takeaways for rejuvenating Indian traditional industries. I created this presentation for my internship at NITI Aayog in Delhi, India, in 2024.
 
 <iframe
   src="https://view.officeapps.live.com/op/embed.aspx?src=https://calsahu.github.io/indonesiabatik.pptx"
