@@ -156,7 +156,7 @@ Map projects:
 - [Rent-burden in San Francisco](SFrentburden.md)
 - [Bhubhaneswar Map](EPICBBSR.md)
 - [Delhi Groundwater Scenario](GWDelhi.md)
-- [Land Use Change in Doral, Florida](https://docs.google.com/document/d/e/2PACX-1vTZZ76jcULc5QDYACa4x6GH-VeB5BdaXt95-XyAUs29dgqBwKykK6fFhXcDBfyV5A/pub)
+- [Land Use Change in Doral, Florida](https://arcg.is/4e4Gq3)
 - [Urban Forestry to Combat Pollution in San Francisco School Zones](https://storymaps.arcgis.com/stories/3b1d5d86a54442b793bc22aff1fa5fd9) 
 
 
