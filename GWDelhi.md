@@ -38,6 +38,7 @@ This is a presentation on Delhi's groundwater situation, put together from offic
   frameborder="0">
 </iframe>
 
+## Individual Maps
 <iframe src="pdf/GWSTRESSDELHI.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/GWRecharge_Parks.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/GWQualityDELHI.pdf" width="100%" height="600px"></iframe>
