@@ -30,7 +30,7 @@
 
 <img src="image/Sharanya.JPG" alt="Sharanya Sahu Photo" width="500" align="left">
 I’m Sharanya Sahu, a city planning graduate student with a background in Data Science and Urban Studies. I understand as well as conduct statistical and spatial analyses and currently work on research spanning housing, community development, and technology. From building a database on faith-based affordable housing to applied research on AI and community resilience, I bridge technical insight with social context. I am versatile and curious, moving between planning, data, and communication to support decision-making that advances affordable, resilient cities.
-<br><br><br>
+<br><br><br><br>
 
 ## Education
 - Rutgers University New Brunswick (expected 2027) <b>Master of City and Regional Planning </b> 
