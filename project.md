@@ -267,9 +267,7 @@ Data analysis projects:
 
 
 ## Presentations
-include HT memo
-NITI Aayog work
-Class presentations
+
 <div class="carousel">
   <div class="slides">
     <div class="slide">
