@@ -5,8 +5,8 @@
   <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Resume</a>
   <a href="project.html">Projects</a>
   <a href="paper.html">Papers</a>
-  <a href="contact.html">Contact</a>
   <a href="awards.html">Awards</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <style>
@@ -67,3 +67,7 @@ The status of YIGBY legislation* compared with statewise development counts, as 
 Each state is colored based on whether they have passed laws, considered laws, declined to pass laws, or have not considered YIGBY legislation. Overlaid are circles representing the total number of developments passed in each state. 
 
 <em>*This map includes statewise legislation. YIGBY laws have also been passed at the local level, which is not included in the visualization.</em>
+
+<br>
+
+Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)! 
