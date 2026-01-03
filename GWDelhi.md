@@ -1,12 +1,12 @@
-# Presentation on Batik Industry
+# Delhi's Groundwater Mapping
 
 <div class="top-nav">
   <a href="index.html">About Me</a>
   <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Resume</a>
   <a href="project.html">Projects</a>
   <a href="paper.html">Papers</a>
-  <a href="contact.html">Contact</a>
   <a href="awards.html">Awards</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <style>
@@ -47,4 +47,6 @@ This is a presentation on Delhi's groundwater situation, put together from offic
 <iframe src="pdf/GWDelhiInfiltration.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/GWDelhiDischarge.pdf" width="100%" height="600px"></iframe>
 <iframe src="pdf/FIXEDBuiltUp.pdf" width="100%" height="600px"></iframe>
+<br>
+Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)!
 <iframe src="pdf/DelhiGWDischargeRate.pdf" width="100%" height="600px"></iframe>
