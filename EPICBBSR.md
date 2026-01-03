@@ -32,4 +32,5 @@
 This was prepared for a knowledge product published by NIUA, made using QGIS. It shows the elevation, water bodies, and ward boundaries of Bhubhaeswar, the capital city of the state Odisha in India.
 <img src="image/EPIC_BBSR_KP_2.png" alt="EPIC BBSR Projects">
 <br>
+
 Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)!
