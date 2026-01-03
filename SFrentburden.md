@@ -5,8 +5,8 @@
   <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Resume</a>
   <a href="project.html">Projects</a>
   <a href="paper.html">Papers</a>
-  <a href="contact.html">Contact</a>
   <a href="awards.html">Awards</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <style>
@@ -36,3 +36,6 @@ These maps visualize rent burden in San Francisco, alongside point locations of 
 <img src="image/MAP3_SF_AH.png" alt="Rent Burden in San Francisco">
 
 <img src="image/MAP5_RentBurdenAffordableHousing_Principles of Housing.png" alt="Rent Burden and Affordable Housing in San Francisco">
+<br>
+
+Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)! 
