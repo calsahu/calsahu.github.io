@@ -31,8 +31,6 @@
 
 <img src="image/doral.png" alt="Doral, Florida">
 
-<img src="image/2025, 1985 (2).png" alt="Doral, Florida Built Up">
-
 <br>
 
 Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)! 
