@@ -278,7 +278,7 @@ Class presentations
       </a>
     </div>
     <div class="slide">
-      <a href=memo_delhitransport.html">
+      <a href="memo_delhitransport.html">
         <img src="image/delhipinkpass.png" alt="Delhi Pink Pass Scheme">
       </a>
     </div>
