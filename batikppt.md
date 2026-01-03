@@ -5,8 +5,8 @@
   <a href="https://docs.google.com/document/d/e/2PACX-1vTdXMOxjDVlwPxPEMZ2_DTfDJnAC52xALzhIjLUhGW5FnHeF41MyVcPV0RUxzgMhcjNPmRNMxvVOgRB/pub">Resume</a>
   <a href="project.html">Projects</a>
   <a href="paper.html">Papers</a>
-  <a href="contact.html">Contact</a>
   <a href="awards.html">Awards</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <style>
@@ -35,3 +35,7 @@
   height="600px"
   frameborder="0">
 </iframe>
+
+<br>
+
+Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)! 
