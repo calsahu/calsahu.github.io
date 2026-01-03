@@ -46,8 +46,8 @@ I’m Sharanya Sahu, a city planning graduate student with a background in data 
       </a>
     </div>
     <div class="slide">
-      <a href="batikppt.html">
-        <img src="image/batik.png" alt="Slide 1">
+      <a href="https://arcg.is/4e4Gq3" target="_blank">
+        <img src="image/doral.png" alt="Doral, Florida Built Up">
       </a>
     </div>
     <div class="slide">
