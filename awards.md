@@ -6,7 +6,6 @@
   <a href="project.html">Projects</a>
   <a href="paper.html">Papers</a>
   <a href="contact.html">Contact</a>
-  <a href="awards.html">Awards</a>
 </div>
 
 <style>
@@ -32,3 +31,8 @@
 1. [Rutgers Climate and Energy Fellow](https://rcei.rutgers.edu/rutgers-climate-and-energy-fellowships/)
 2. [Charlene Conrad Liebau Library Prize for Undergraduate Research](https://www.lib.berkeley.edu/about/news/library-prize-2024)
 3. [UC Berkeley Undergraduate Research Apprenticeship Program Summer Fellowship](https://research.berkeley.edu/urap-researchers/sharanya-sahu/)
+
+<br>
+
+Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)! 
+
