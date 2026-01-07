@@ -39,7 +39,7 @@ I’m Sharanya Sahu, a city planning graduate student with a background in data 
 - Rutgers University New Brunswick (expected 2027) <b>Master of City and Regional Planning </b> 
 - UC Berkeley (2024) <b>BA Urban Studies, BA Data Science</b>
 
-## Featured Projects
+## Scroll Through Featured Projects!
 
 <div class="carousel">
   <div class="slides">
