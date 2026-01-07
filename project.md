@@ -29,6 +29,7 @@
 </style>
 
 ## Maps
+### Click Arrows to Navigate!
 
 Here are some of the maps I have made. As you scroll, you can click on each map to learn more. 
 
@@ -164,7 +165,7 @@ Map projects:
 
 
 ## Data Analysis
-
+### Click Arrows to Navigate!
 <div class="carousel">
   <div class="slides">
     <div class = "slide">
@@ -267,7 +268,7 @@ Data analysis projects:
 
 
 ## Presentations
-
+### Click Arrows to Navigate!
 <div class="carousel">
   <div class="slides">
     <div class="slide">
