@@ -30,7 +30,7 @@
 
 ## Publications
 
-<b>2025</b>: Co-wrote Chapter 2 in <i>Urban Resilience and Sustainability in the India: Pathways to Climate-Resilient Cities</i> Heat-Proofing Cities: Pivotal Programs to Shape India’s National Adaptation Plan <br> <br>
+<b>2025</b>: Co-wrote Chapter 2 in <i>Urban Resilience and Sustainability in the India: Pathways to Climate-Resilient Cities</i> Heat-Proofing Cities: Pivotal Programs to Shape India’s National Adaptation Plan, A Springer publication. <br> <br>
 <b>2024</b>: Acknowledged in <i>Proceedings of the National Academy of Sciences</i> paper [Dynamical theory of complex systems with two-way micro-macro causation](https://doi.org/10.1073/pnas.2408676121), for research assistance between 2021-2022. <br><br>
 <b>2024</b>: Urban Studies Senior Thesis: South Asian Labor during the Urbanization and Industrialization of the Bay Area [read here!](https://escholarship.org/uc/item/14j0g5j7) 
 
