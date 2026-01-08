@@ -180,7 +180,7 @@ Map projects:
     </div>
     <div class="slide">
       <a href="gee_lulc.html">
-        <img src="image/munilyft.png" alt="Google Earth Engine LULC">
+        <img src="image/gee_bbsr.png" alt="Google Earth Engine LULC">
       </a>
     </div>
   </div>
