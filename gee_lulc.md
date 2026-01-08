@@ -33,3 +33,6 @@ I prepared a Land Cover classification workflow in Google Earth Engine, for the 
 
 
 My code is available here: https://code.earthengine.google.com/9e47dad259d2720bd473bddebff7d4ed 
+
+
+<img src="image/gee_bbsr.png" alt="Bhubhaneswar Land Use Analysis">
