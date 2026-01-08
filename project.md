@@ -178,6 +178,11 @@ Map projects:
         <img src="image/munilyft.png" alt="Comparison on Muni and Lyft prices">
       </a>
     </div>
+    <div class="slide">
+      <a href="gee_lulc.html">
+        <img src="image/munilyft.png" alt="Google Earth Engine LULC">
+      </a>
+    </div>
   </div>
 
   <button class="prev">‹</button>
@@ -262,7 +267,7 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 Data analysis projects:
 - [Cook County Housing Analysis](cchousing.md)
 - [Assignment researching impact of ridesharing on public transportation in San Francisco](sftranspo.md)
-
+- [Land Use Land Cover Classifier created for Bhubaneswar](gee_lulc.md)
 
 
 
