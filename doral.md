@@ -29,10 +29,14 @@
 }
 </style>
 
+
 Doral, Florida, is a city of 15 square miles (Doral Facts, n.d.) in Miami-Dade County. 
-It was initially swampland, but slowly morphed into a bustling residential, industrial, and recently, commercial area. 
-It rose to prominence as the second largest economic and commercial area in Miami-Dade County (City of Doral, 2005). 
+It was initially swampland, but rapidly morphed into a bustling residential, industrial, and recently, commercial area. 
+It has risen to prominence as the second largest economic and commercial area in Miami-Dade County (City of Doral, 2005). 
+
 This paper examines the question: how does Doral plan for its future economic development and growth?  
+
+<img src="image/Land Cover Change_Doral.png" alt="Land Use Change Doral">
 
 <iframe src="pdf/Work Sample Sharanya Sahu Feb 2026.pdf" width="100%" height="600px"></iframe>
 <br>
