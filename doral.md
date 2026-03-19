@@ -38,7 +38,7 @@ This paper examines the question: how does Doral plan for its future economic de
 
 <img src="image/Land Cover Change_Doral.png" alt="Land Use Change Doral">
 
-<iframe src="pdf/Work Sample Sharanya Sahu Feb 2026.pdf" width="100%" height="600px"></iframe>
+<iframe src="pdf/Work Sample Sharanya Sahu Feb 2026 .pdf" width="100%" height="600px"></iframe>
 <br>
 
 Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)!
