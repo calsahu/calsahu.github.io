@@ -62,7 +62,7 @@ Here are some of the maps I have made. As you scroll, you can click on each map 
     </div>
     <div class="slide">
       <a href="https://arcg.is/4e4Gq3" target="_blank">
-        <img src="image/doral.png" alt="Doral, Florida Built Up">
+        <img src="image/Land Cover Change_Doral.png" alt="Doral, Florida Land Cover Change">
       </a>
     </div>
     <div class="slide">
