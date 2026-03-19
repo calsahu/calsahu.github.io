@@ -45,6 +45,11 @@ It has risen to prominence as the second largest economic and commercial area in
 <br>
 Delhi’s Pink Pass scheme has increased ridership and workforce participation rates among women. Women and gender minorities in Delhi, particularly those from caste-oppressed, migrant, and working-class backgrounds, have long been excluded from public space, transit, and employment. The Pink Pass fully subsidizes their bus rides. This program has been widely successful, reducing red-tape and promoting the visibility of women in public. The Pink Pass case provides a model of reducing historic inequities through transportation planning. I prepared a memo and [presentation](memoppt_HTP.md) explaining this program.
 
+## Blog Posts
+
+[River Cities and AI](https://water.niua.in/blog/river-cities-and-artificial-intelligence-using-ai-planning-river-cities)
+<br>
+Artificial intelligence (AI) has infiltrated several sectors as a tool that increases the efficiency and scale of work. Urban water management is no exception. The following blog contextualises AI for urban water management, highlighting key opportunities as well as areas of concern.
 
 
 <br>
