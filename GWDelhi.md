@@ -29,7 +29,9 @@
 }
 </style>
 
-This is a presentation on Delhi's groundwater situation, put together from official government reports. It highlights areas with depleting groundwater supply and places where groundwater recharge is possible. Made in 2025 during my internship at NIUA, under the supervision of Dr. Victor Shinde and Banibrata Choudhury.
+This is a presentation on Delhi's groundwater situation, put together from official government reports and QGIS. It integrates maps of elevation, historical urbanization, groundwater levels and trends, industrial areas, contamination, and infiltration rates, with maps of recharge zones, parks, and waterbodies. Using this information, it highlights areas with depleting groundwater supply and places where groundwater recharge is possible. Residential areas of South Delhi and industrial areas of North Delhi are ideal locations for groundwater recharge, as they are the most affected by groundwater stress, and also contain numerous parks and waterbodies. 
+
+I created this presentation and maps in 2025 during my internship at NIUA, under the supervision of Dr. Victor Shinde and Banibrata Choudhury.
 
 <iframe
   src="https://view.officeapps.live.com/op/embed.aspx?src=https://calsahu.github.io/GWDelhiSharanya.pptx"
@@ -38,17 +40,9 @@ This is a presentation on Delhi's groundwater situation, put together from offic
   frameborder="0">
 </iframe>
 
-## Individual Maps
-<iframe src="pdf/GWSTRESSDELHI.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWRecharge_Parks.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWQualityDELHI.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWDepthtoLevelDecadalDELHI.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWDelhi_Recharge_Waterbodies.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWDelhiInfiltrationParks.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWDelhiInfiltration.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/GWDelhiDischarge.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/FIXEDBuiltUp.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/DelhiGWDischargeRate.pdf" width="100%" height="600px"></iframe>
+## Individual Maps 
+Please scroll!
+<iframe src="pdf/GWMaps.pdf" width="100%" height="600px"></iframe>
 <br>
 
 Thank you for visiting my webpage. If you are interested in collaborating, please feel free to [reach out](contact.md)!
