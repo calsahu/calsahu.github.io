@@ -44,7 +44,7 @@ I’m Sharanya Sahu, a city planning graduate student with a background in data 
 <div class="carousel">
   <div class="slides">
     <div class = "slide">
-      <a href="fbhousing_unpublished.html">
+      <a href="https://calsahu.github.io/faith-based-housing/">
         <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
       </a>
     </div>
