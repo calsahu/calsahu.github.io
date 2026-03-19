@@ -35,9 +35,11 @@
 <b>2024</b>: Urban Studies Senior Thesis: South Asian Labor during the Urbanization and Industrialization of the Bay Area [read here!](https://escholarship.org/uc/item/14j0g5j7) 
 
 ## Urban Planning Course Papers
-[Managing Urban Transformation: Population Growth and Economic Development in Doral, Florida](https://docs.google.com/document/d/e/2PACX-1vTZZ76jcULc5QDYACa4x6GH-VeB5BdaXt95-XyAUs29dgqBwKykK6fFhXcDBfyV5A/pub)
+[Managing Urban Transformation: Population Growth and Economic Development in Doral, Florida](doral.md)
 <br>
-There are two facts which provide the provocation for this paper. First: “Doral is in some ways a prototypical suburb that formed around a country club far away from the central city, yet it is also a major economic hub.” (Nijman & Clery, 2015, p. 85) Second: “While Doral still has its share of industrial flavor, the focus over the past decade has been on Downtown Doral, a mix of apartment buildings, restaurants and stores. The transformation has kept workers around at night for dinner and drinks, and has drawn visitors from other parts of the county.” (Rivera, 2025) This pushed me to explore the question: <i>What is influencing the transformation of land uses towards commercial development in Doral, Florida, between 2000 and 2025?</i> I also created a [storymap](https://arcg.is/4e4Gq3) based on my paper.
+Doral, Florida, is a city of 15 square miles (Doral Facts, n.d.) in Miami-Dade County. 
+It was initially swampland, but rapidly morphed into a bustling residential, industrial, and recently, commercial area. 
+It has risen to prominence as the second largest economic and commercial area in Miami-Dade County (City of Doral, 2005). This paper examines the question: <i>how does Doral plan for its future economic development and growth?</i> I also created a [storymap](https://arcg.is/4e4Gq3) based on my paper.
 
 [Subsidizing Transit for Women in Delhi, India](https://docs.google.com/document/d/16PEnRXAAenDjqs6sjyviA0LpYWMqIe6KLDV3o1S7xVI/edit?usp=sharing)
 <br>
