@@ -29,7 +29,7 @@
 </style>
 
 <img src="image/Sharanya.JPG" alt="Sharanya Sahu Photo" width="450" align="left">
-I’m Sharanya Sahu, a city planning graduate student with a background in data science and urban studies. I conduct statistical and spatial analyses and currently work on research spanning housing, community development, and technology. From building a database on faith-based affordable housing to applied research on AI and community resilience, I bridge technical insight with social context. I am versatile and curious, moving between planning, data, and communication to support decision-making that advances affordable, resilient cities.<br>
+I’m Sharanya Sahu, a city planning graduate student at Rutgers concentrating in land use planning. I have a background in data science from UC Berkeley, and I am proficient in GIS and data analytics. I currently work on research spanning housing, community development, and technology. From building a database on faith-based affordable housing to applied research on AI and community resilience, I bridge technical insight with social context. I am versatile and curious, moving between planning, data, and communication to advance affordable, resilient cities.<br>
 
 - [Rutgers Climate and Energy Fellow](https://rcei.rutgers.edu/rutgers-climate-and-energy-fellowships/)
 - [Charlene Conrad Liebau Library Prize for Undergraduate Research](https://www.lib.berkeley.edu/about/news/library-prize-2024)
