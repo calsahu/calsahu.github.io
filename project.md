@@ -67,7 +67,7 @@ Here are some of the maps I have made. As you scroll, you can click on each map 
     </div>
     <div class="slide">
       <a href="https://storymaps.arcgis.com/stories/3b1d5d86a54442b793bc22aff1fa5fd9" target="_blank">
-        <img src="image/la188.png" alt="SF Forestry Raster Analysis">
+        <img src="image/Raster_Urban_forestry.png" alt="SF Forestry Raster Analysis">
       </a>
     </div>
   </div>
