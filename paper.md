@@ -34,7 +34,12 @@
 <b>2024</b>: Acknowledged in <i>Proceedings of the National Academy of Sciences</i> paper [Dynamical theory of complex systems with two-way micro-macro causation](https://doi.org/10.1073/pnas.2408676121), for research assistance between 2021-2022. <br><br>
 <b>2024</b>: Urban Studies Senior Thesis: South Asian Labor during the Urbanization and Industrialization of the Bay Area [read here!](https://escholarship.org/uc/item/14j0g5j7) 
 
-## Urban Planning Course Papers
+## Reports
+
+[Impact Assessment of Student Thesis Competition 2020-2024](https://niua.in/publication-details/Impact_Assessment:_Student_Thesis_Competition_(2020-2024)) 
+<br> I designed and conducted an impact assessment of a national fellowship program using bibliometric analysis and survey data from 40 participants. The program supported undergraduate and graduate theses focusing on urban river management across disciplines. The report aims to trace how this program nudged participants' career trajectories towards urban river management and inculcated lifelong conservation values. 
+
+## Academic Papers
 [Managing Urban Transformation: Population Growth and Economic Development in Doral, Florida](doral.md)
 <br>
 Doral, Florida, is a city of 15 square miles (Doral Facts, n.d.) in Miami-Dade County. 
