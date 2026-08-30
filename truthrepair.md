@@ -35,9 +35,10 @@ You can see the whole project
 [here](https://trnj.org/)
 
 ## New Jersey
-<iframe src="pdf/truthrepair/TR_Statewide.pdf" width="30%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/TR_Statewide_NANDA.pdf" width="40%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/TR_Statewide_Urban_Renewal.pdf" width="50%" height="600px"></iframe>
+We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlantic City, Camden, Jersey City, Newark, and Plainfield. Observing race data from the ACS, it is evident that there is a diagonal pattern of minority majority areas which are also sites of historic urban renewal and displacement. 
+<iframe src="pdf/truthrepair/TR_Statewide.pdf" width="33%" height="500px"></iframe>
+<iframe src="pdf/truthrepair/TR_Statewide_NANDA.pdf" width="33%" height="500px"></iframe>
+<iframe src="pdf/truthrepair/TR_Statewide_Urban_Renewal.pdf" width="33%" height="500px"></iframe>
 
 ## Atlantic County
 <iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
