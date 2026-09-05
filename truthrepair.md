@@ -68,19 +68,19 @@ The NJ Department of Community Affairs considers the entirety of Atlantic City t
   <a href="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Final_NANDA.png" 
          alt="View report"
-         style="width: 100%; height: 500px; object-fit: cover; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_AtlanticCo_Final_Redlining.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Final_Redlining.png" 
          alt="View report"
-         style="width: 100%; height: 500px; object-fit: cover; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.png" 
          alt="View report"
-         style="width: 100%; height: 500px; object-fit: cover; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
 
 </div>
@@ -94,25 +94,25 @@ Camden County shows similar patterns as Atlantic County, but with added alignmen
   <a href="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" target="_blank">
     <img src="image/truthrepair/TR_CamdenCo_Final_NANDA.png" 
          alt="View report"
-         style="width: 100%; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_CamdenCo_Redlining_Final.pdf" target="_blank">
     <img src="image/truthrepair/TR_CamdenCo_Redlining_Final.png" 
          alt="View report"
-         style="width: 100%; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.pdf" target="_blank">
     <img src="image/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.png" 
          alt="View report"
-         style="width: 100%; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
 
   <a href="pdf/truthrepair/TR_CamdenCo_UrbanRenewal_Final.pdf" target="_blank">
     <img src="image/truthrepair/TR_CamdenCo_UrbanRenewal_Final.png" 
          alt="View report"
-         style="width: 100%; display: block;">
+         style="width: 100%; height: 500px; object-fit: contain; display: block;">
   </a>
 
 </div>
@@ -121,20 +121,20 @@ Camden County shows similar patterns as Atlantic County, but with added alignmen
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
-  <a href="pdf/truthrepair/EssexCo_Final_NANDA.pdf" target="_blank">
-    <img src="image/truthrepair/EssexCo_Final_NANDA.png" 
+  <a href="pdf/truthrepair/TR_EssexCo_Final_NANDA.pdf" target="_blank">
+    <img src="image/truthrepair/TR_EssexCo_Final_NANDA.png" 
          alt="View report"
          style="width: 100%; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/EssexCo_Food_Insecurity_Race_Final.pdf" target="_blank">
-    <img src="image/truthrepair/EssexCo_Food_Insecurity_Race_Final.png" 
+  <a href="pdf/truthrepair/TR_EssexCo_Food_Insecurity_Race_Final.pdf" target="_blank">
+    <img src="image/truthrepair/TR_EssexCo_Food_Insecurity_Race_Final.png" 
          alt="View report"
          style="width: 100%; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/EssexCo_Food_Insecurity_Redlining_Final.pdf" target="_blank">
-    <img src="image/truthrepair/EssexCo_Food_Insecurity_Redlining_Final.png" 
+  <a href="pdf/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.pdf" target="_blank">
+    <img src="image/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.png" 
          alt="View report"
          style="width: 100%; display: block;">
   </a>
