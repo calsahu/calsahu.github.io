@@ -61,7 +61,7 @@ We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlanti
 
 ## Atlantic County
 
-The NJ Department of Community Affairs considers the entirety of Atlantic City to be a food desert. Exploring census data and historic redlined areas show that redlining almost a hundred years ago corresponds with where present-day Black and Latine communities reside. The NANDA data reveals many food stores popped up largely right outside of Atlantic City in the past few decades, and looking at SNAP retailer data, there are only 3 supermarkets in the city today. 
+Famous for its casino economy and the shoreline, Atlantic County was the first study area I looked into. The NJ Department of Community Affairs considers the entirety of Atlantic City to be a food desert. Exploring census data and historic redlined areas show that redlining almost a hundred years ago corresponds with where present-day Black and Latine communities reside. The NANDA data reveals many food stores popped up largely right outside of Atlantic City in the past few decades, and looking at SNAP retailer data, there are only 3 supermarkets in the city today. 
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
@@ -93,7 +93,7 @@ The NJ Department of Community Affairs considers the entirety of Atlantic City t
 
 ## Camden County
 
-Camden County shows similar patterns as Atlantic County, but with added alignment to areas of urban renewal and displacement. Supermarkets accepting SNAP only exist near the border of the town. 
+Camden County, across the river from Philadelphia, shows similar patterns as Atlantic County, but with added alignment to areas of urban renewal and displacement. Supermarkets accepting SNAP only exist near the border of the town. 
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
@@ -133,7 +133,7 @@ Camden County shows similar patterns as Atlantic County, but with added alignmen
 
 ## Essex County
 
-Echoing trends observed in previous maps, Essex County also shows relationships between majority-minority tracts, food deserts, and redlined areas. It also shows high visual correlation between areas of historic urban renewal and displacement with majority-minority tracts. 
+Newark has a rich industrial history and remains a population center in New Jersey. Echoing trends observed in previous maps, Essex County also shows relationships between majority-minority tracts, food deserts, and redlined areas. It also shows high visual correlation between areas of historic urban renewal and displacement with majority-minority tracts. 
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
@@ -173,6 +173,8 @@ Echoing trends observed in previous maps, Essex County also shows relationships 
 
 ## Hudson County
 
+Hudson County is closely linked to the Manhattan economy, with numerous commuters living in the cities of Hudson County, particularly in Jersey City. 
+
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
   <a href="pdf/truthrepair/TR_HudsonCo_Final_NANDA.pdf" 
@@ -211,6 +213,8 @@ Echoing trends observed in previous maps, Essex County also shows relationships 
 
 ## Mercer County
 
+Home to the state capital, Trenton, and educational powerhouse, Princeton, Mercer County also reflects broader patterns of food insecurity and racial inequity in the state.
+
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
   <a href="pdf/truthrepair/TR_MercerCo_Final_NANDA.pdf" 
@@ -241,6 +245,8 @@ Echoing trends observed in previous maps, Essex County also shows relationships 
 
 ## Middlesex County
 
+Home to large health and education institutions, Middlesex County also has large disparities in its population. Food access is mediated through demographic vulnerability.
+
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
   <a href="pdf/truthrepair/TR_MiddlesexCo_Final_NANDA.pdf" 
@@ -262,6 +268,8 @@ Echoing trends observed in previous maps, Essex County also shows relationships 
 </div>
 
 ## Union County
+
+Originally known for its Quaker history, Plainfield's demographics have changed over the years. Now it is a majority Latine city. It struggles with food access and has only one supermarket accepting SNAP within its bounds.
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
