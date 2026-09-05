@@ -59,9 +59,22 @@ We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlanti
 
 The NJ Department of Community Affairs considers the entirety of Atlantic City to be a food desert. Exploring census data and historic redlined areas show that redlining almost a hundred years ago corresponds with where present-day Black and Latine communities reside. The NANDA data reveals many food stores popped up largely right outside of Atlantic City in the past few decades, and looking at SNAP retailer data, there are only 3 supermarkets in the city today. 
 
-<iframe src="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" width="33%" height="500px"></iframe>
-<iframe src="pdf/truthrepair/TR_AtlanticCo_Final_Redlining.pdf" width="33%" height="500px"></iframe>
-<iframe src="pdf/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.pdf" width="33%" height="500px"></iframe>
+<a href="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" target="_blank">
+  <img src="image/truthrepair/TR_AtlanticCo_Final_NANDA.png" 
+       alt="View report"
+       style="width: 33%; max-width: 500px;">
+</a>
+
+<a href="pdf/truthrepair/TR_AtlanticCo_Final_Redlining.pdf" target="_blank">
+  <img src="image/truthrepair/TR_AtlanticCo_Final_Redlining.png" 
+       alt="View report"
+       style="width: 33%; max-width: 500px;">
+</a>
+
+<a href="pdf/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.pdf" target="_blank">
+  <img src="image/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.png" 
+       alt="View report"
+       style="width: 33%; max-width: 500px;">
 
 ## Camden County
 <iframe src="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" width="33%" height="500px"></iframe>
