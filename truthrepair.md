@@ -65,22 +65,28 @@ The NJ Department of Community Affairs considers the entirety of Atlantic City t
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
-  <a href="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_AtlanticCo_Final_NANDA.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/TR_AtlanticCo_Final_Redlining.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_AtlanticCo_Final_Redlining.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_AtlanticCo_Final_Redlining.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
 
 </div>
