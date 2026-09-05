@@ -37,7 +37,7 @@ You can see the whole project
 ## New Jersey
 We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlantic City, Camden, Jersey City, Newark, and Plainfield. Observing race data from the ACS, it is evident that there is a diagonal pattern of minority majority areas which are also sites of historic urban renewal and displacement. 
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 3px; align-items: flex-start;">
 
   <a href="pdf/truthrepair/TR_Statewide.pdf" target="_blank">
     <img src="image/truthrepair/TR_Statewide.png" 
@@ -63,7 +63,7 @@ We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlanti
 
 The NJ Department of Community Affairs considers the entirety of Atlantic City to be a food desert. Exploring census data and historic redlined areas show that redlining almost a hundred years ago corresponds with where present-day Black and Latine communities reside. The NANDA data reveals many food stores popped up largely right outside of Atlantic City in the past few decades, and looking at SNAP retailer data, there are only 3 supermarkets in the city today. 
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 3px; align-items: flex-start;">
 
   <a href="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Final_NANDA.png" 
