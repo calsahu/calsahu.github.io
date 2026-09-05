@@ -42,19 +42,19 @@ We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlanti
   <a href="pdf/truthrepair/TR_Statewide.pdf" target="_blank">
     <img src="image/truthrepair/TR_Statewide.png" 
          alt="View report"
-         style="width: 33%; max-width: 500px;">
+         style="width: 100%; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_Statewide_NANDA.pdf" target="_blank">
     <img src="image/truthrepair/TR_Statewide_NANDA.png" 
          alt="View report"
-         style="width: 33%; max-width: 500px;">
+         style="width: 100%; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_Statewide_Urban_Renewal.pdf" target="_blank">
     <img src="image/truthrepair/TR_Statewide_Urban_Renewal.png" 
          alt="View report"
-         style="width: 33%; max-width: 500px;">
+         style="width: 100%; display: block;">
   </a>
 
 </div>
@@ -63,32 +63,51 @@ We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlanti
 
 The NJ Department of Community Affairs considers the entirety of Atlantic City to be a food desert. Exploring census data and historic redlined areas show that redlining almost a hundred years ago corresponds with where present-day Black and Latine communities reside. The NANDA data reveals many food stores popped up largely right outside of Atlantic City in the past few decades, and looking at SNAP retailer data, there are only 3 supermarkets in the city today. 
 
-<div style="display: flex; gap: 3px; align-items: flex-start;">
+<div style="display: flex; gap: 2px; align-items: flex-start;">
 
   <a href="pdf/truthrepair/TR_AtlanticCo_Final_NANDA.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Final_NANDA.png" 
          alt="View report"
-         style="width: 33%; max-width: 500px;">
+         style="width: 100%; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_AtlanticCo_Final_Redlining.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Final_Redlining.png" 
          alt="View report"
-         style="width: 33%; max-width: 500px;">
+         style="width: 100%; display: block;">
   </a>
   
   <a href="pdf/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.pdf" target="_blank">
     <img src="image/truthrepair/TR_AtlanticCo_Race_Food_Insecurity_Final.png" 
          alt="View report"
-         style="width: 33%; max-width: 500px;">
+         style="width: 100%; display: block;">
   </a>
 
 </div>
 
 ## Camden County
-<iframe src="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" width="33%" height="500px"></iframe>
-<iframe src="pdf/truthrepair/TR_CamdenCo_Redlining_Final.pdf" width="33%" height="500px"></iframe>
-<iframe src="pdf/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.pdf" width="33%" height="500px"></iframe>
+
+<div style="display: flex; gap: 2px; align-items: flex-start;">
+
+  <a href="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" target="_blank">
+    <img src="image/truthrepair/TR_CamdenCo_Final_NANDA.png" 
+         alt="View report"
+         style="width: 100%; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_CamdenCo_Redlining_Final.pdf" target="_blank">
+    <img src="image/truthrepair/TR_CamdenCo_Redlining_Final.png" 
+         alt="View report"
+         style="width: 100%; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.pdf" target="_blank">
+    <img src="image/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.png" 
+         alt="View report"
+         style="width: 100%; display: block;">
+  </a>
+
+</div>
 
 ## Essex County
 <iframe src="pdf/truthrepair/EssexCo_Final_NANDA.pdf" width="100%" height="600px"></iframe>
