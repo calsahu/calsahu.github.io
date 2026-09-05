@@ -97,28 +97,36 @@ Camden County shows similar patterns as Atlantic County, but with added alignmen
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
-  <a href="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_CamdenCo_Final_NANDA.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/TR_CamdenCo_Redlining_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_CamdenCo_Redlining_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_CamdenCo_Redlining_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
 
-  <a href="pdf/truthrepair/TR_CamdenCo_UrbanRenewal_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_CamdenCo_UrbanRenewal_Final.pdf" 
+     target="_blank"
+     style="flex: 1;">
     <img src="image/truthrepair/TR_CamdenCo_UrbanRenewal_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
 
 </div>
@@ -129,28 +137,36 @@ Echoing trends observed in previous maps, Essex County also shows relationships 
 
 <div style="display: flex; gap: 2px; align-items: flex-start;">
 
-  <a href="pdf/truthrepair/TR_EssexCo_Final_NANDA.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_EssexCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_EssexCo_Final_NANDA.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/TR_EssexCo_Food_Insecurity_Race_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_EssexCo_Food_Insecurity_Race_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_EssexCo_Food_Insecurity_Race_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
   
-  <a href="pdf/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
 
-  <a href="pdf/truthrepair/TR_EssexCo_Urban_Renewal_Final.pdf" target="_blank">
+  <a href="pdf/truthrepair/TR_EssexCo_Urban_Renewal_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
     <img src="image/truthrepair/TR_EssexCo_Urban_Renewal_Final.png" 
          alt="View report"
-         style="width: 100%; object-fit: contain; display: block;">
+         style="width: 100%; height: auto; display: block;">
   </a>
 
 </div>
