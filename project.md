@@ -36,6 +36,11 @@ Here are some of the maps I have made. As you scroll, you can click on each map 
 <div class="carousel">
   <div class="slides">
     <div class = "slide">
+      <a href="https://calsahu.github.io/truthrepair/">
+        <video src="image/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.png" autoplay muted loop playsinline></video>
+      </a>
+    </div>
+    <div class = "slide">
       <a href="https://calsahu.github.io/faith-based-housing/">
         <video src="video/mapvideo.mp4" autoplay muted loop playsinline></video>
       </a>
