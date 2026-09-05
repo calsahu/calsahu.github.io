@@ -55,13 +55,13 @@ We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlanti
 
 ## Camden County
 <iframe src="pdf/truthrepair/TR_CamdenCo_Final_NANDA.pdf" width="33%" height="500px"></iframe>
-<iframe src="pdf/truthrepair/TR_CamdenCo_Final_Redlining.pdf" width="33%" height="500px"></iframe>
-<iframe src="pdf/truthrepair/TR_CamdenCo_Race_Food_Insecurity_Final.pdf" width="33%" height="500px"></iframe>
+<iframe src="pdf/truthrepair/TR_CamdenCo_Redlining_Final.pdf" width="33%" height="500px"></iframe>
+<iframe src="pdf/truthrepair/TR_CamdenCo_Race_FoodInsecurity_Final.pdf" width="33%" height="500px"></iframe>
 
 ## Essex County
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
+<iframe src="pdf/truthrepair/EssexCo_Final_NANDA.pdf" width="100%" height="600px"></iframe>
+<iframe src="pdf/truthrepair/EssexCo_Food_Insecurity_Race_Final.pdf" width="100%" height="600px"></iframe>
+<iframe src="pdf/truthrepair/EssexCo_Food_Insecurity_Redlining_Final.pdf" width="100%" height="600px"></iframe>
 
 ## Hudson County
 <iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
