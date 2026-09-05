@@ -156,24 +156,124 @@ Echoing trends observed in previous maps, Essex County also shows relationships 
 </div>
 
 ## Hudson County
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
+
+<div style="display: flex; gap: 2px; align-items: flex-start;">
+
+  <a href="pdf/truthrepair/TR_HudsonCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_HudsonCo_Final_NANDA.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_HudsonCo_FoodInsecurity_Redlining_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_HudsonCo_FoodInsecurity_Redlining_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_HudsonCo_FoodInsecurity_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_HudsonCo_FoodInsecurity_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+
+  <a href="pdf/truthrepair/TR_HudsonCo_UrbanRenewal_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_HudsonCo_UrbanRenewal_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+
+</div>
 
 ## Mercer County
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
+
+<div style="display: flex; gap: 2px; align-items: flex-start;">
+
+  <a href="pdf/truthrepair/TR_MercerCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_MercerCo_Final_NANDA.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_MercerCo_FoodInsecurity_Redlining_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_MercerCo_FoodInsecurity_Redlining_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_MercerCo_FoodInsecurity_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_MercerCo_FoodInsecurity_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+
+</div>
 
 ## Middlesex County
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
+
+<div style="display: flex; gap: 2px; align-items: flex-start;">
+
+  <a href="pdf/truthrepair/TR_MiddlesexCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_MiddlesexCo_Final_NANDA.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_MiddlesexCo_FoodInsecurity_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_MiddlesexCo_FoodInsecurity_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+
+</div>
 
 ## Union County
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
-<iframe src="pdf/truthrepair/GWMaps.pdf" width="100%" height="600px"></iframe>
+
+<div style="display: flex; gap: 2px; align-items: flex-start;">
+
+  <a href="pdf/truthrepair/TR_UnionCo_Final_NANDA.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_UnionCo_Final_NANDA.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_UnionCo_FoodInsecurity_Redlining_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_UnionCo_FoodInsecurity_Redlining_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_UnionCo_FoodInsecurity_Final.pdf" 
+     target="_blank" 
+     style="flex: 1;">
+    <img src="image/truthrepair/TR_UnionCo_FoodInsecurity_Final.png" 
+         alt="View report"
+         style="width: 100%; height: auto; display: block;">
+  </a>
+
+</div>
 
 <br>
 
