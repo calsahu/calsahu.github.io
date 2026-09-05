@@ -36,6 +36,13 @@ You can see the whole project
 
 ## New Jersey
 We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlantic City, Camden, Jersey City, Newark, and Plainfield. Observing race data from the ACS, it is evident that there is a diagonal pattern of minority majority areas which are also sites of historic urban renewal and displacement. 
+
+<a href="pdf/truthrepair/TR_Statewide.pdf" target="_blank">
+  <img src="images/report-cover.jpg" 
+       alt="View report"
+       style="width: 33%; max-width: 500px;">
+</a>
+
 <iframe src="pdf/truthrepair/TR_Statewide.pdf" width="33%" height="500px"></iframe>
 <iframe src="pdf/truthrepair/TR_Statewide_NANDA.pdf" width="33%" height="500px"></iframe>
 <iframe src="pdf/truthrepair/TR_Statewide_Urban_Renewal.pdf" width="33%" height="500px"></iframe>
