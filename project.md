@@ -37,7 +37,7 @@ Here are some of the maps I have made. As you scroll, you can click on each map 
   <div class="slides">
     <div class = "slide">
       <a href="https://calsahu.github.io/truthrepair/">
-        <video src="image/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.png" autoplay muted loop playsinline></video>
+        <img src="image/truthrepair/TR_EssexCo_Food_Insecurity_Redlining_Final.png" ></img>
       </a>
     </div>
     <div class = "slide">
