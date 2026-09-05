@@ -37,23 +37,27 @@ You can see the whole project
 ## New Jersey
 We focused on 7 municipalities across the state: New Brunswick, Trenton, Atlantic City, Camden, Jersey City, Newark, and Plainfield. Observing race data from the ACS, it is evident that there is a diagonal pattern of minority majority areas which are also sites of historic urban renewal and displacement. 
 
-<a href="pdf/truthrepair/TR_Statewide.pdf" target="_blank">
-  <img src="image/truthrepair/TR_Statewide.png" 
-       alt="View report"
-       style="width: 33%; max-width: 500px;">
-</a>
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<a href="pdf/truthrepair/TR_Statewide_NANDA.pdf" target="_blank">
-  <img src="image/truthrepair/TR_Statewide_NANDA.png" 
-       alt="View report"
-       style="width: 33%; max-width: 500px;">
-</a>
+  <a href="pdf/truthrepair/TR_Statewide.pdf" target="_blank">
+    <img src="image/truthrepair/TR_Statewide.png" 
+         alt="View report"
+         style="width: 33%; max-width: 500px;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_Statewide_NANDA.pdf" target="_blank">
+    <img src="image/truthrepair/TR_Statewide_NANDA.png" 
+         alt="View report"
+         style="width: 33%; max-width: 500px;">
+  </a>
+  
+  <a href="pdf/truthrepair/TR_Statewide_Urban_Renewal.pdf" target="_blank">
+    <img src="image/truthrepair/TR_Statewide_Urban_Renewal.png" 
+         alt="View report"
+         style="width: 33%; max-width: 500px;">
+  </a>
 
-<a href="pdf/truthrepair/TR_Statewide_Urban_Renewal.pdf" target="_blank">
-  <img src="image/truthrepair/TR_Statewide_Urban_Renewal.png" 
-       alt="View report"
-       style="width: 33%; max-width: 500px;">
-</a>
+</div>
 
 ## Atlantic County
 
