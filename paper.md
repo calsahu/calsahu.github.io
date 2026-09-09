@@ -36,6 +36,10 @@
 
 ## Reports
 
+[Draft Strategies for Neighborhood Revitalization in Dover, New Jersey (Summer 2026)](strategic.md)
+<br> I interned at Strategic Communities, a consulting firm primarily involved in neighborhood planning through the NJ Department of Community Affairs (DCA) Neighborhood Revitalization Tax Credit program. I was involved in collecting and analyzing data, conducting initial community outreach, and drafting an initial set of recommendations for Dover, New Jersey. I've attached my draft report, with the strategies and solutions I came up with based on my analysis and experiences with the community. These do not necessarily represent the final report and plan, which are in progress. 
+<br>
+
 [Impact Assessment of Student Thesis Competition 2020-2024](https://niua.in/publication-details/Impact_Assessment:_Student_Thesis_Competition_(2020-2024)) 
 <br> I designed and conducted an impact assessment of a national fellowship program using bibliometric analysis and survey data from 40 participants. The program supported undergraduate and graduate theses focusing on urban river management across disciplines. The report aims to trace how this program nudged participants' career trajectories towards urban river management and inculcated lifelong conservation values. 
 
