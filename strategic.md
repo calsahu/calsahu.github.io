@@ -31,7 +31,7 @@
 
 I worked alongside Jason Rowe, Elena Peeples, and Ben Cramer on neighborhood planning through the Department of Community Affairs’ Neighborhood Revitalization Tax Credit (NRTC) program, which enables private sector investment in community development. I helped kick off the engagement process for a new neighborhood revitalization plan in a vibrant New Jersey community, and contributed to census data analysis, outreach, parcel surveying, and strategy development for the plan. Strategic Communities also works to implement a diverse array of other neighborhood revitalization plans, for which I helped prepare grant applications.
 
-We surveyed the business district using Regrid as part of our analysis, and used Python, ArcGIS Pro, and Adobe Illustrator to showcase our findings:
+We surveyed the business district using Regrid as part of our analysis, and used Python, ArcGIS Pro, and Adobe Illustrator to showcase our findings. I created summary statistics and organized the final charts and maps on Illustrator:
 
 <img src="image/Parcel_Survey_Results.png" alt="Parcel Survey Results">
 
