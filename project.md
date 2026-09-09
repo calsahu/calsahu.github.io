@@ -173,6 +173,11 @@ Map projects:
 ### Click Arrows to Navigate!
 <div class="carousel">
   <div class="slides">
+    <div class="slide">
+      <a href="strategic.html">
+        <img src="image/Parcel_Survey_Results.png" alt="Parcel Survey Results">
+      </a>
+    </div>
     <div class = "slide">
       <a href="cchousing.html">
         <img src="image/projA1Data100.png" alt="Wealthy neighborhoods and Sale Price">
