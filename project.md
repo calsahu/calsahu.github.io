@@ -275,6 +275,7 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 </script>
 
 Data analysis projects:
+- [Blackwell Business District Parcel Survey](strategic.md)
 - [Cook County Housing Analysis](cchousing.md)
 - [Assignment researching impact of ridesharing on public transportation in San Francisco](sftranspo.md)
 - [Land Use Land Cover Classifier created for Bhubaneswar](gee_lulc.md)
