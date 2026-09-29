@@ -29,14 +29,15 @@
 </style>
 
 <img src="image/Sharanya.JPG" alt="Sharanya Sahu Photo" width="450" align="left">
-I’m Sharanya Sahu, a city planning graduate student at Rutgers concentrating in land use planning. I have a background in data science from UC Berkeley, and I am proficient in GIS and data analytics. I currently work on research spanning housing, community development, and technology. From building a database on faith-based affordable housing to applied research on AI and community resilience, I bridge technical insight with social context. I am versatile and curious, moving between planning, data, and communication to advance affordable, resilient cities.<br>
+My name is Sharanya Sahu, and I aspire to advance affordable and resilient places. I have a background in data analytics and GIS from UC Berkeley, and am a Master of City and Regional Planning student at the Bloustein School of Planning and Public Policy. I am interested in working within and shaping institutional frameworks for public good through the housing and community development sector. At Bloustein, I research affordable housing, environmental resilience, and the role of emerging technologies in these areas. Professionally I have worked in urban environmental policy in India, community development consulting in New Jersey, and community planning in the NYC government. My cross disciplinary and international experience affords me a unique, critical perspective. I seek to bring my experiences, skills, and values with me wherever I land.
+<br>
 
 - [Rutgers Climate and Energy Fellow](https://rcei.rutgers.edu/rutgers-climate-and-energy-fellowships/)
 - [Charlene Conrad Liebau Library Prize for Undergraduate Research](https://www.lib.berkeley.edu/about/news/library-prize-2024)
 - [UC Berkeley Undergraduate Research Apprentice Summer Fellow](https://research.berkeley.edu/urap-researchers/sharanya-sahu/)
 
 ## Education
-- Rutgers University New Brunswick (expected 2027) <b>Master of City and Regional Planning </b> 
+- Bloustein School of Planning and Public Policy, Rutgers University New Brunswick (expected 2027) <b>Master of City and Regional Planning </b> 
 - UC Berkeley (2024) <b>BA Urban Studies, BA Data Science</b>
 
 ## Scroll Through Featured Projects!
@@ -49,8 +50,8 @@ I’m Sharanya Sahu, a city planning graduate student at Rutgers concentrating i
       </a>
     </div>
     <div class="slide">
-      <a href="doral.html" target="_blank">
-        <img src="image/Land Cover Change_Doral.png" alt="Doral, Florida Built Up">
+      <a href="strategic.html" target="_blank">
+        <img src="image/Parcel_Survey_Results.png" alt="Results of Business Parcel Survey">
       </a>
     </div>
     <div class="slide">
